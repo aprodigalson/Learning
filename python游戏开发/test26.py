@@ -2,6 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QMessageBox, QDesktopWidget
 from PyQt5.QtGui import QIcon
 
+# icon , button, signal and slot
 
 class Example(QWidget):
     def __init__(self):

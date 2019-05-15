@@ -2,6 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QWidget
 from PyQt5.QtGui import QIcon
 
+# basic window
 
 class Example(QWidget):
     def __init__(self):
